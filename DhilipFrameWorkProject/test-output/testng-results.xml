@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79003" started-at="2022-09-08T17:01:43Z" finished-at="2022-09-08T17:03:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79003" started-at="2022-09-08T17:01:43Z" finished-at="2022-09-08T17:03:02Z">
+      <class name="org.testing.TestNgOrder">
+        <test-method status="PASS" signature="browser()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="browser" is-config="true" duration-ms="2729" started-at="2022-09-08T17:01:43Z" finished-at="2022-09-08T17:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="start" is-config="true" duration-ms="18577" started-at="2022-09-08T17:01:46Z" finished-at="2022-09-08T17:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="tc3()[pri:-5, instance:org.testing.TestNgOrder@4dfa3a9d]" name="tc3" duration-ms="3258" started-at="2022-09-08T17:02:04Z" finished-at="2022-09-08T17:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="end" is-config="true" duration-ms="0" started-at="2022-09-08T17:02:07Z" finished-at="2022-09-08T17:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="start" is-config="true" duration-ms="8749" started-at="2022-09-08T17:02:07Z" finished-at="2022-09-08T17:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="tc3()[pri:-5, instance:org.testing.TestNgOrder@4dfa3a9d]" name="tc3" duration-ms="2440" started-at="2022-09-08T17:02:16Z" finished-at="2022-09-08T17:02:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="end" is-config="true" duration-ms="0" started-at="2022-09-08T17:02:19Z" finished-at="2022-09-08T17:02:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="start" is-config="true" duration-ms="4893" started-at="2022-09-08T17:02:19Z" finished-at="2022-09-08T17:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="tc3()[pri:-5, instance:org.testing.TestNgOrder@4dfa3a9d]" name="tc3" duration-ms="3628" started-at="2022-09-08T17:02:24Z" finished-at="2022-09-08T17:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="end" is-config="true" duration-ms="0" started-at="2022-09-08T17:02:27Z" finished-at="2022-09-08T17:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="start" is-config="true" duration-ms="4765" started-at="2022-09-08T17:02:27Z" finished-at="2022-09-08T17:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="tc3()[pri:-5, instance:org.testing.TestNgOrder@4dfa3a9d]" name="tc3" duration-ms="2434" started-at="2022-09-08T17:02:32Z" finished-at="2022-09-08T17:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="end" is-config="true" duration-ms="0" started-at="2022-09-08T17:02:34Z" finished-at="2022-09-08T17:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="start" is-config="true" duration-ms="4751" started-at="2022-09-08T17:02:34Z" finished-at="2022-09-08T17:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="tc3()[pri:-5, instance:org.testing.TestNgOrder@4dfa3a9d]" name="tc3" duration-ms="2373" started-at="2022-09-08T17:02:39Z" finished-at="2022-09-08T17:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="end" is-config="true" duration-ms="0" started-at="2022-09-08T17:02:42Z" finished-at="2022-09-08T17:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="start" is-config="true" duration-ms="4549" started-at="2022-09-08T17:02:42Z" finished-at="2022-09-08T17:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="tc1()[pri:-2, instance:org.testing.TestNgOrder@4dfa3a9d]" name="tc1" duration-ms="2384" started-at="2022-09-08T17:02:46Z" finished-at="2022-09-08T17:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="end" is-config="true" duration-ms="0" started-at="2022-09-08T17:02:48Z" finished-at="2022-09-08T17:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="start" is-config="true" duration-ms="8555" started-at="2022-09-08T17:02:48Z" finished-at="2022-09-08T17:02:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:2, instance:org.testing.TestNgOrder@4dfa3a9d]" name="tc2" duration-ms="2432" started-at="2022-09-08T17:02:57Z" finished-at="2022-09-08T17:02:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mogan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raju]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="end" is-config="true" duration-ms="0" started-at="2022-09-08T17:02:59Z" finished-at="2022-09-08T17:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.testing.TestNgOrder@4dfa3a9d]" name="browserClose" is-config="true" duration-ms="2442" started-at="2022-09-08T17:02:59Z" finished-at="2022-09-08T17:03:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- org.testing.TestNgOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
